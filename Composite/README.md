@@ -10,27 +10,5 @@ Design Patterns: Elements of Reusable Object-Oriented Software
 
 #####ESTRUTURA/EXEMPLO
 
-Suponha que tenhamos um questionário formado de questões, que podem estar agrupadas em blocos e blocos podem conter outros blocos. Podemos então ter a estrutura a seguir para um questionário:
-
-Bloco A
-
-—– Q1
-
-—– Q2
-
-—– Q3
-
-Bloco B
-
-—– Bloco B1
-
-———- Q4
-
-———- Q5
-
-—– Bloco B2
-
-———- Q6
-
-—– Q7
+Podemos criar um sistema de gerenciamento de arquivos. Com arquivos concretos (vídeos, textos, imagens, etc.) e arquivos pastas, que armazenam outros arquivos.
 
