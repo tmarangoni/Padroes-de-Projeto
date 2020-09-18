@@ -1,9 +1,8 @@
-package br.padroes.templateMethod;
 
 public class Cliente {
 	public static void main(String[] args) {
 
-		PlayList minhaPlayList = new PlayList(ModoDeReproducao.porNome);
+		br.padroes.templateMethod.PlayList minhaPlayList = new PlayList(ModoDeReproducao.porNome);
 		minhaPlayList.adicionarMusica("Everlong", "Foo Fighters", "1997", 5);
 		minhaPlayList.adicionarMusica("Song 2", "Blur", "1997", 4);
 		minhaPlayList.adicionarMusica("American Jesus", "Bad Religion", "1993",
