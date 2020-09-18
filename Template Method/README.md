@@ -13,7 +13,10 @@ GAMMA, Erich et al. Padrões de Projeto: Soluções reutilizáveis de software o
 Suponha um player de música que oferece várias maneiras de reproduzir as músicas de uma playlist. Para exemplificar suponha que podemos reproduzir a lista de músicas da seguinte maneira:
 
 Ordenado por nome da música
+
 Ordenado por nome do Autor
+
 Ordenado por ano
+
 Ordenado por estrela (preferência do usuário)
 
