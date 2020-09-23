@@ -13,3 +13,5 @@ Design Patterns: Elements of Reusable Object-Oriented Software
 Podemos criar um sistema de gerenciamento de arquivos. Com arquivos concretos (vídeos, textos, imagens, etc.) e arquivos pastas, que armazenam outros arquivos.
 
 [Exemplo](https://bit.ly/3cjgSwr)
+
+![composite](composite.png)

@@ -21,3 +21,5 @@ Ordenado por ano
 Ordenado por estrela (preferência do usuário)
 
 [Exemplo](https://bit.ly/2ZNZfQi)
+
+![alt text](template-method.png)
