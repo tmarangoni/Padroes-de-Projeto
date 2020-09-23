@@ -13,3 +13,5 @@ GAMMA, Erich et al. Padrões de Projeto: Soluções reutilizáveis de software o
 Imagine uma fábrica de carros. A classe fábrica centraliza a criação de objetos carro. Por exemplo, se fosse necessário armazenar quantos carros foram criados, para elaborar um relatório de quais foram os carros mais vendidos, seria bem simples não? Bastaria adicionar um contador para cada tipo de carro e, ao executar o método que cria um carro, incrementar o contador referente a ele.
 
 [Exemplo](https://bit.ly/33PEogz)
+
+![singleton](singleton.png)
