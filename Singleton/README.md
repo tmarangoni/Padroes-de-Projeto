@@ -14,4 +14,4 @@ Imagine uma fábrica de carros. A classe fábrica centraliza a criação de obje
 
 [Exemplo](https://bit.ly/33PEogz)
 
-![singleton](singleton.png)
+![singleton](singleton.png) .
