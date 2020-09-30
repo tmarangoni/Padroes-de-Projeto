@@ -1,5 +1,7 @@
 ### Composite
 
+###### Padrão Estrtutural
+
 Este padrão tem como principio montar uma árvore onde objetos individuais (folhas) e  grupos de objetos (compostos) sejam tratados de maneira igual, ou seja, através da aplicação do polimorfismo realizamos chamadas de objetos na árvore sem se preocupar se o objeto trata-se de uma folha ou de um composto.
 
 ##### INTENÇÃO
@@ -9,9 +11,10 @@ Este padrão tem como principio montar uma árvore onde objetos individuais (fol
 Design Patterns: Elements of Reusable Object-Oriented Software
 
 ##### ESTRUTURA/EXEMPLO
+Component - Leaf - Composite - Client
 
-Podemos criar um sistema de gerenciamento de arquivos. Com arquivos concretos (vídeos, textos, imagens, etc.) e arquivos pastas, que armazenam outros arquivos.
+Podemos criar um sistema de gerenciamento de arquivos (Component). Com arquivos concretos (vídeos, textos, imagens, etc.)(Leaf) e arquivos pastas, que armazenam outros arquivos (Composite).
 
-[Exemplo](https://bit.ly/3cjgSwr)
+[Exemplo](src)
 
 ![composite](composite.png)

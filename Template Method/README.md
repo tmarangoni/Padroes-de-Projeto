@@ -1,5 +1,7 @@
 ### Template Method
 
+###### Padrão Comportamental
+
 O padrão Template Method basicamente oferece um método que define um algoritmo (uma sequência de passos) que pode, por sua vez, ser definido como abstrato para posteriormente ser implementado por uma subclasse. Pode-se notar que a estrutura do algoritmo fica inalterada mesmo com as subclasses fazendo parte da implementação.
 
 ##### INTENÇÃO
@@ -20,6 +22,6 @@ Ordenado por ano
 
 Ordenado por estrela (preferência do usuário)
 
-[Exemplo](https://bit.ly/2ZNZfQi)
+[Exemplo](src)
 
 ![template_method](template-method.png)
