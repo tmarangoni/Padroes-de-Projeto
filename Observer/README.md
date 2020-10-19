@@ -11,6 +11,8 @@ GAMMA, Erich et al. Padrões de Projeto: Soluções reutilizáveis de software o
 
 ##### ESTRUTURA/EXEMPLO
 
+Subject - Observer
+
 Em um programa é necessário fazer várias representações de um mesmo conjunto de dados. Este conjunto de dados consiste de uma estrutura que contém 3 atributos: valorA, valorB e valorC. É necessário representar dados em uma tabela, que simplesmente exibe os número, uma representação em gráficos de barras, onde os valores são exibidos em barras e outra representação em porcentagem, relativo a soma total dos valores. A representação deve ser feita de modo que qualquer alteração no conjunto de dados compartilhados provoque alterações em todas as formas de representação, garantindo assim que uma visão nunca tenha dados invalidados.
 Também queremos que as representações só sejam redesenhadas somente quando necessário. Ou seja, sempre que um valor for alterado.
 
