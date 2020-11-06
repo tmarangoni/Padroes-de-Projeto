@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Factory/Abstract Factory.iml" filepath="$PROJECT_DIR$/Abstract Factory/Abstract Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Exempl.iml" filepath="$PROJECT_DIR$/Composite/Exempl.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Exemplo.iml" filepath="$PROJECT_DIR$/Composite/Exemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory Method/Factory Method.iml" filepath="$PROJECT_DIR$/Factory Method/Factory Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Memento/Memento.iml" filepath="$PROJECT_DIR$/Memento/Memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Padroes-de-Projeto.iml" filepath="$PROJECT_DIR$/.idea/Padroes-de-Projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Template Method/Template Method.iml" filepath="$PROJECT_DIR$/Template Method/Template Method.iml" />
     </modules>
   </component>
